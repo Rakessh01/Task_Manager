@@ -30,5 +30,5 @@ Python-based Task Manager with OOP principles and file persistence.
 Run the script and interact with the task manager through the terminal.
 
 ---
-**Author:** Your Name  
-**GitHub:** [YourUsername](https://github.com/yourusername)
+**Author:** Rakessh Singh 
+**GitHub:** https://github.com/Rakessh01/
