@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Buy groceries",
+        "due_date": "2024-07-10",
+        "category": "Personal",
+        "status": "pending"
+    },
+    {
+        "title": "Hello Rakesh",
+        "category": "Demo",
+        "due_date": "2205-03-03",
+        "status": "Pending"
+    }
+]
