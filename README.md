@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple Python-based Task Manager with OOP principles and file persistence.
+Python-based Task Manager with OOP principles and file persistence.
 
 ## Features
 - Add, update, and delete tasks
